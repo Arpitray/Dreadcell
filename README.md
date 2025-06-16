@@ -1,61 +1,71 @@
-# 🕸️ 3D Haunted Room – Interactive Web Experience
+# 🌌 3D Haunted Room – Interactive Web Experience
 
-A fully interactive **3D web room** built with HTML, CSS, and JavaScript. Rotate your view, explore a chilling environment, and interact with eerie 3D objects — all right from your browser. No game engine required.
-
----
-
-## 📸 Preview
-
-![3D Room Screenshot](https://app.screenclip.com/nMWe)
-
-> *Step into the shadows... and see what’s watching you.*
+A fully immersive 3D web environment built with HTML, CSS, and JavaScript. Step inside a mysterious room where **objects rotate in eerie silence**, a **dark mode sets the mood**, and a **bag lets you collect and carry strange items** as you explore. No game engine. Just pure front-end wizardry.
 
 ---
 
-## 🚀 Features
+## 🧩 Features
 
-- 🔄 360° room rotation using mouse or touch
-- 🪞 Realistic 3D objects with CSS transforms
-- 💡 Lighting & depth effects for immersive feel
-- 🕹️ Smooth animations using pure JS (or GSAP)
-- 🌐 Fully responsive and lightweight
-
----
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3 (3D Transforms, Flex/Grid)
-- Vanilla JavaScript  
-<!-- Optional: GSAP or other animation libraries -->
+- 🔄 **360° Room Rotation** – Explore every corner of the creepy room.
+- 🎒 **Inventory System** – Pick up 3D objects and store them in your bag.
+- 🌀 **Spinning Objects** – Haunted items continuously rotate to draw your attention.
+- 🌙 **Night Mode** – Dynamic theme switch to enhance the spooky atmosphere.
+- 🎨 **Pure HTML, CSS, and JS** – No heavy frameworks or WebGL needed.
 
 ---
 
-## 📦 Installation
+## 🎥 Preview
 
-1. Clone the repository:
+![Preview of the Room](https://app.screenclip.com/nMWe)
+
+> *"Turn around… something might be right behind you."*
+
+---
+
+## ⚙️ Tech Stack
+
+- HTML5  
+- CSS3 (3D Transforms, Transitions, Dark Mode with CSS variables)  
+- JavaScript (DOM manipulation, event handling)  
+- Optional: GSAP (for smoother animations)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**
    ```bash
+ HEAD
    git clone https://github.com/Arpitray/dreadcell.git
 
-2. Open index.html in your browser — no build tools required!
+   Open index.html in your browser
+ c861187 (Updated README.md)
 
-🧪 Usage
-Rotate the room by dragging (mouse or finger)
+That's it! No build tools required.
 
-Explore different angles to discover hidden elements
+🧙‍♀️ How to Use
+Rotate the Room: Click or swipe to view all sides.
 
-Add your own 3D objects inside the HTML structure
+Interact with Objects: Hover to inspect, click to collect.
 
-🧙 Customization
-You can customize:
+Open Your Bag: View and manage collected items.
 
-Room layout (walls, floor, ceiling)
+Toggle Night Mode: Click the switch to switch themes.
 
-3D objects (add furniture, items, effects)
+🧪 Customization Ideas
+Add more 3D props (e.g., keys, candles, secret notes)
 
+Include a mini-map or multi-room system
+
+ HEAD
 Animations (JS keyframes)
 
 Ambient sound or background music
+
+Add ambient background sound or spooky effects
+
+Implement a puzzle or escape-room mechanic\
+ c861187 (Updated README.md)
 
 🙌 Credits
 Created by Arpit
