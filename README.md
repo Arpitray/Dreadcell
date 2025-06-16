@@ -35,7 +35,7 @@ A fully interactive **3D web room** built with HTML, CSS, and JavaScript. Rotate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3d-haunted-room.git
+   git clone https://github.com/Arpitray/dreadcell.git
 
 2. Open index.html in your browser — no build tools required!
 
@@ -56,16 +56,6 @@ Room layout (walls, floor, ceiling)
 Animations (JS keyframes)
 
 Ambient sound or background music
-
-🎯 Use Cases
-Halloween event sites
-
-Horror-themed portfolio section
-
-Educational demos on 3D CSS/JS
-
-Interactive storytelling
-
 
 🙌 Credits
 Created by Arpit
